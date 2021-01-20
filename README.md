@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Eu me chamo Alan 👋</h1>
 <h3 align="center">Desenvolvedor Fullstack de Dourados MS</h3>
 
-- 🔭 Procurando sempre expandir minha área de conhecimento, e entregar códigos de qualidade, que sejam confortáveis, adaptaveis e mais do que tudo, seguros.
+- 🔭 Procuro sempre expandir minha área de conhecimento, utilizando ferramentas e linguagens atualizadas e que se comprometem com a segurança e experiencia do usuário, tenho 4 anos de desenvolvimentos e projetos concluídos, fora isso, várias aspirações cujo as mesmas pretendo finalizar um dia.
 
 - ⚡ Com tudo isso, tenho apenas **16 anos** de idade, impressionante né? xD
 
