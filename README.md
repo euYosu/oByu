@@ -3,7 +3,6 @@
 
 - 🔭 Procuro sempre expandir minha área de conhecimento, utilizando ferramentas e linguagens atualizadas e que se comprometem com a segurança e experiencia do usuário, tenho 4 anos de desenvolvimentos e projetos concluídos, fora isso, várias aspirações cujo as mesmas pretendo finalizar um dia.
 
-- ⚡ Com tudo isso, tenho apenas **16 anos** de idade, impressionante né? xD
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
